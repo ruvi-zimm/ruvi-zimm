@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruvi-zimm
 - 👀 I’m interested in understanding the programming world and dive into data analysis
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on projects related to data analysis or beginners programming
 - 📫 How to reach me ruvianaz@yahoo.com
 
